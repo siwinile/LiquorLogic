@@ -5,6 +5,18 @@
       "PackagePath": "staticwebassets\\LiquorWebsite.bundle.scp.css"
     },
     {
+      "Id": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\Startup.cs",
+      "PackagePath": "staticwebassets\\Startup.cs"
+    },
+    {
+      "Id": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\animinated.css",
+      "PackagePath": "staticwebassets\\css\\animinated.css"
+    },
+    {
+      "Id": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\owl.css",
+      "PackagePath": "staticwebassets\\css\\owl.css"
+    },
+    {
       "Id": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

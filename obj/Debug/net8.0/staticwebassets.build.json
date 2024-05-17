@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6BA42Hwc0Z8Jcmcdrn38wBN7sSnIYex3xIUjfaYU+SA=",
+  "Hash": "mXqBWyrhPjPcpm94/RvXHz3+tCwQrlH16aqhK2gyIUk=",
   "Source": "LiquorWebsite",
   "BasePath": "_content/LiquorWebsite",
   "Mode": "Default",
@@ -53,6 +53,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "c:\\Users\\aalep\\LiquorWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LiquorWebsite.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\animinated.css",
+      "SourceId": "LiquorWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\",
+      "BasePath": "_content/LiquorWebsite",
+      "RelativePath": "css/animinated.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\animinated.css"
+    },
+    {
+      "Identity": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\owl.css",
+      "SourceId": "LiquorWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\",
+      "BasePath": "_content/LiquorWebsite",
+      "RelativePath": "css/owl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\owl.css"
     },
     {
       "Identity": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\css\\site.css",
@@ -1193,6 +1231,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\Startup.cs",
+      "SourceId": "LiquorWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\aalep\\LiquorWebsite\\wwwroot\\",
+      "BasePath": "_content/LiquorWebsite",
+      "RelativePath": "Startup.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Startup.cs"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj": {}
+    "C:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj": {
+    "C:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj",
+        "projectUniqueName": "C:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj",
         "projectName": "LiquorWebsite",
-        "projectPath": "c:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj",
+        "projectPath": "C:\\Users\\aalep\\LiquorWebsite\\LiquorWebsite.csproj",
         "packagesPath": "C:\\Users\\aalep\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aalep\\LiquorWebsite\\obj\\",
+        "outputPath": "C:\\Users\\aalep\\LiquorWebsite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aalep\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,36 +1,34 @@
-﻿.navbar {
-  box-shadow: 0 2px 4px rgba(0,0,0,.1);
+﻿/* Hover effects on navigation links */
+.nav-link:hover {
+  color: #8400ff;
 }
 
-.navbar.nav-link {
-  transition: color 0.3s ease, transform 0.3s ease;
+.nav-link:focus {
+  color: palevioletred; 
 }
 
-.navbar.nav-link:hover {
-  color: #0056b3;
-  transform: translateY(-5px);
+/* Styling icons */
+.bi {
+  font-size: 24px; 
+  color: #212529; 
 }
 
-.navbar.nav-link +.nav-link::before {
+.bi:hover {
+  color:palevioletred; 
+}
+
+/* Adding lines between each navigation link */
+.nav-item {
+  position: relative;
+}
+
+.nav-item::after {
   content: "";
-  display: inline-block;
-  height: 1px;
-  width: 50%;
-  background-color: #ccc;
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
-.navbar.nav-link:first-child::before {
-  display: none;
-}
-
-.navbar.nav-link:last-child::after {
-  content: "";
-  display: inline-block;
-  height: 1px;
-  width: 50%;
-  background-color: #ccc;
-  margin-left: 10px;
-  margin-right: 10px;
+  position: absolute;
+  top: 50%; 
+  left: 100%; 
+  width: 4px; 
+  height: 20px; 
+  background-color: #ccc; 
+  transform: translateY(-50%); 
 }

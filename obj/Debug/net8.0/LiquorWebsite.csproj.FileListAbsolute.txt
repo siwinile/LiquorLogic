@@ -28,3 +28,4 @@ c:\Users\aalep\LiquorWebsite\obj\Debug\net8.0\refint\LiquorWebsite.dll
 c:\Users\aalep\LiquorWebsite\obj\Debug\net8.0\LiquorWebsite.pdb
 c:\Users\aalep\LiquorWebsite\obj\Debug\net8.0\LiquorWebsite.genruntimeconfig.cache
 c:\Users\aalep\LiquorWebsite\obj\Debug\net8.0\ref\LiquorWebsite.dll
+c:\Users\aalep\LiquorWebsite\obj\Debug\net8.0\LiquorWebsite.sourcelink.json
